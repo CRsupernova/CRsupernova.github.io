@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<C++大学教程>
+##<C++大学教程>
 
 #计算机和C++简介
 ## 1.1 简介
